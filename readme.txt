@@ -28,3 +28,6 @@ page sur les listes:
 
 
 	rajout:	<h2>Les listes désordonnées</h2>
+
+	
+	rajout:	<h2>Les listes ordonnées</h2>
