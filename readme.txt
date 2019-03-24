@@ -27,4 +27,4 @@ page sur les listes:
 	création du fichier + écriture jusqu'à: <h1>Les listes</h1>	
 
 
-	rajout:	<h2>Les listes désordonnée</h2>
+	rajout:	<h2>Les listes désordonnées</h2>
